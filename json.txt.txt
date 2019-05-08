@@ -1,0 +1,2 @@
+{"connections":[{"name":"Test","type":"jdbc","info":{"role":"SYSDBA","SavePassword":"true","SshTunnel.NAME":"SSHname","OracleConnectionType":"SSH","RaptorConnectionType":"Oracle","sid":"orcl","oraDriverType":"thin","NoPasswordConnection":"TRUE","password":"rB2nyeD4zxM=","driver":"oracle.jdbc.OracleDriver","subtype":"oraJDBC","OS_AUTHENTICATION":"false","ConnName":"Test","user":"sys","KERBEROS_AUTHENTICATION":"false","SshHost.NAME":"SSHname"}}]}
+
